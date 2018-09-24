@@ -5,7 +5,7 @@ Load the node_modules:
 ```
  $ npm install
  ``` 
-start the server on 3000 port:
+Start the server on 3000 port:
 ```
  $ nodemon server.js
 ```

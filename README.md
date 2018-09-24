@@ -12,6 +12,6 @@ start the server on 3000 port:
  $ nodemon server.js
 
 ```
-<p>Live Demo:</p><https://troubled-tie.glitch.me/>
+<p>Live Demo:</p><https://troubled-tie.glitch.me>
 
  
